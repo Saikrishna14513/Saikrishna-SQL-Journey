@@ -1,14 +1,16 @@
 # Saikrishna-SQL-Journey
 
 **My SQL Learning Journey**
+
 This repository documents my journey of learning SQL for Data Analyst roles.  
 It includes key concepts, definitions, and practical queries.
 
 **SQL Definition:**
+
 SQL Stands for Structured Query Language. SQL is a programming language used to communicate with databases. By using SQL queries, we can store, process, analyze, and manipulate databases.
 
 **Topics Covered**
-**Basic Queries**
+### 1. Basic Queries**
 
 - **SELECT**: Select is used to retrieve data from the table.
 - **WHERE**: Where is used to filter records based on conditions  
@@ -57,6 +59,7 @@ Used for conditional logic in SQL (like IF-ELSE).
 - Helps categorize or transform data  
 
 **AUTHOR**
+
 **SAIKRISHNA ORUGANTI**
 
 
